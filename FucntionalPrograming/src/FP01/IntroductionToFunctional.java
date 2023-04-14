@@ -7,7 +7,7 @@ public class IntroductionToFunctional {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		//program to show usage of basic stream functions which we have 
 		List<Integer> li=List.of(15,18,4,5,1,3,1,2,3);
 		
 		System.out.println("the numbers are");
